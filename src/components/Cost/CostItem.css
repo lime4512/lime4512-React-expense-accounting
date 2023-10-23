@@ -1,0 +1,26 @@
+.cost-item {
+	align-items: center;
+	margin: 15px auto;
+	max-width: 700px;
+	display: flex;
+	justify-content: space-between;
+	padding: 20px;
+	background-color: rgb(63, 63, 107);
+	border-radius: 10px;
+	box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+}
+
+.cost-date {
+	width: 100px;
+	border-radius: 20px;
+	background-color: brown;
+	border: 1px solid white;
+	padding: 10px 20px;
+}
+
+.cost-prise {
+	border-radius: 10px;
+	background-color: brown;
+	border: 1px solid white;
+	padding: 10px;
+}

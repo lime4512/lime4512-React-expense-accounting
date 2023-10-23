@@ -1,0 +1,16 @@
+.cost-filter {
+	margin: 15px 10px 20px 10px;
+	display: flex;
+	justify-content: space-between;
+  align-items: center;
+}
+
+.cost-filter__select{
+  display: block;
+	padding: 10px 20px 10px 15px;
+	border: none;
+	font-size: 15px;
+	color: rgb(68, 67, 67);
+	outline: none;
+	border-radius: 10px;
+}
